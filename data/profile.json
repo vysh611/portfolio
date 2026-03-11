@@ -1,0 +1,32 @@
+{
+  "name": "Gandla Vyshnavi",
+  "role": "Data Analyst",
+  "location": "Ballari, Karnataka",
+  "email": "gvyshnavi611@gmail.com",
+  "github": "https://github.com/vysh611",
+  "linkedin": "https://www.linkedin.com/in/gandla-vyshnavi",
+  "objective": "Aspiring data analyst with a solid foundation in data analysis, finance, statistics, and data visualization. Proficient in Apache Spark, Power BI, Excel, SQL, and Python libraries with strong experience in cleaning and transforming messy datasets. Motivated to extract actionable insights and support data-driven decision-making to drive measurable business impact.",
+  "skills": [
+    {
+      "group": "Big Data",
+      "items": ["Apache Spark (PySpark)", "Spark SQL"]
+    },
+    {
+      "group": "Programming",
+      "items": ["Python (Pandas, NumPy, Matplotlib)", "SQL"]
+    },
+    {
+      "group": "Visualization",
+      "items": ["Power BI (DAX, Data Modeling, Power Query)", "Excel (Pivot Tables, VLOOKUP)"]
+    },
+    {
+      "group": "Cloud & Deployment",
+      "items": ["Google Cloud Platform", "Streamlit", "Flask"]
+    },
+    {
+      "group": "Machine Learning",
+      "items": ["YOLOv8", "EDA", "Data Preprocessing", "Statistics"]
+    }
+  ]
+}
+
