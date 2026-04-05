@@ -1,0 +1,113 @@
+[
+  {
+    "id": "financial-investment-behaviour-risk",
+    "title": "Financial Investment Behaviour & Risk Analytics",
+    "when": "Feb 2026",
+    "badge": "Analytics",
+    "repo": "https://github.com/vysh611/Financial-Investment-Behaviour-Risk-Analytics",
+    "links": [],
+    "tags": ["MySQL", "Python", "Power BI", "EDA", "Dashboard", "SQL"],
+    "summary": "Survey-driven analysis of investor risk–return preferences with SQL-backed data modeling and Power BI dashboards.",
+    "highlights": [
+      "High-return seekers were ~1.5× more likely to prefer Equity Markets; top 3 avenues ~70% of preferences.",
+      "Structured raw survey data (40 investors) with cleaning, normalization, and schema design in SQL.",
+      "Segmented demographics (~50% aged 26–35; ~35–40% high-risk) using a rule-based equity ranking model."
+    ]
+  },
+  {
+    "id": "prompt-engineering-annotation",
+    "title": "Prompt Engineering — AI Annotation Pipeline",
+    "when": "Apr 2026",
+    "badge": "Python",
+    "repo": "https://github.com/vysh611/Prompt-Engineering-AI-Annotation-Pipeline",
+    "links": [],
+    "tags": ["Python", "LLM", "Data Pipeline", "Annotation"],
+    "summary": "Python project for building and managing an AI annotation workflow (prompting and pipeline structure).",
+    "highlights": [
+      "Repository on GitHub with active development (Python).",
+      "Useful for roles touching AI-assisted data labeling and structured prompts."
+    ]
+  },
+  {
+    "id": "accident-detection-yolov8",
+    "title": "Accident Detection & Alert System (YOLOv8)",
+    "when": "Aug 2025 — Nov 2025",
+    "badge": "Applied ML",
+    "repo": "https://github.com/vysh611/Accident_Detection_And_Alert_System_using_YOLOv8_Model",
+    "links": [],
+    "tags": ["YOLOv8", "Python", "Flask", "Computer Vision", "Web App"],
+    "summary": "Real-time accident detection with model inference, Flask API, and a web UI; includes research publication.",
+    "highlights": [
+      "92% detection accuracy on test data; trained on 5,000+ labeled traffic images.",
+      "Flask backend for inference; responsive HTML/CSS/JS front end.",
+      "Email alerts and published paper (IJARCCE)."
+    ]
+  },
+  {
+    "id": "ipl-data-analysis",
+    "title": "IPL Data Analysis",
+    "when": "Feb 2025 — Apr 2025",
+    "badge": "Dashboard",
+    "repo": "https://github.com/vysh611/IPL_Data_Analysis",
+    "links": [],
+    "tags": ["Python", "Pandas", "NumPy", "Power BI", "EDA", "Jupyter"],
+    "summary": "End-to-end cleaning, EDA, and Power BI dashboards for IPL performance and match insights.",
+    "highlights": [
+      "Strong data quality gains via Pandas/NumPy cleaning (missing values, duplicates).",
+      "Dashboards for top run/wicket leaders, team and season comparisons, match outcomes."
+    ]
+  },
+  {
+    "id": "retail-sales-analysis",
+    "title": "Retail Sales Data Analysis",
+    "when": "GitHub",
+    "badge": "Analytics",
+    "repo": "https://github.com/vysh611/Retail_Sales_Data_Analysis",
+    "links": [],
+    "tags": ["Python", "EDA", "Visualization", "Jupyter"],
+    "summary": "Notebook-based exploration of retail sales: trends, segments, and KPI-focused visuals.",
+    "highlights": [
+      "Cleaning and exploration to surface patterns across time and product/customer dimensions.",
+      "Communicates findings through charts suitable for stakeholder review."
+    ]
+  },
+  {
+    "id": "housing-price-prediction",
+    "title": "Housing Price Prediction",
+    "when": "GitHub",
+    "badge": "ML + EDA",
+    "repo": "https://github.com/vysh611/Housing_Price_Prediction",
+    "links": [],
+    "tags": ["Python", "Regression", "Preprocessing", "Jupyter"],
+    "summary": "Regression workflow: preprocessing, EDA, and baseline models for price prediction.",
+    "highlights": [
+      "Feature preparation and model evaluation for housing price drivers.",
+      "Good complement to analytics roles requiring statistical thinking."
+    ]
+  },
+  {
+    "id": "project3-notebook",
+    "title": "Project 3 (Notebook)",
+    "when": "GitHub",
+    "badge": "Notebook",
+    "repo": "https://github.com/vysh611/project3",
+    "links": [],
+    "tags": ["Jupyter", "Python", "EDA"],
+    "summary": "Additional Jupyter notebook work on GitHub; extend README inside the repo for topic details.",
+    "highlights": ["Public notebook repo — rename or document the notebook for stronger recruiter clarity."]
+  },
+  {
+    "id": "live-portfolio-site",
+    "title": "Personal Portfolio (this site)",
+    "when": "Live",
+    "badge": "Web",
+    "repo": "https://github.com/vysh611/portfolio",
+    "links": ["https://portfolio-lyart-five-39.vercel.app/"],
+    "tags": ["HTML", "CSS", "JavaScript", "Vercel"],
+    "summary": "Static portfolio showcasing projects, skills, and contact — deployed on Vercel from the `portfolio` repo.",
+    "highlights": [
+      "Source: github.com/vysh611/portfolio",
+      "Live: portfolio-lyart-five-39.vercel.app"
+    ]
+  }
+]
